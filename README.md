@@ -7,9 +7,5 @@
 # palagyi3dthin.py is the heart of the algorithm
 # template expressions.py are python evaluated boolean expressions
 # thin3d templates.py is used to evaluate these expressions just once
-# scratch folder conatains personal not so important different trials of 
-# implementing the algorithm
-# optimization folder contain memoizing, c code conversion to make the algorithm run
-# faster, which are work in progress
 
 
